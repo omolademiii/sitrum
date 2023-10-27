@@ -1,0 +1,295 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Art",
+      "url": "/assets/images/category1.png"
+    },
+    {
+      "id": 2,
+      "name": "Collectibles",
+      "url": "/assets/images/categoryp.png"  
+    },
+    {
+      "id": 3,
+      "name": "Domain name",
+      "url": "/assets/images/category3.png"  
+    },
+    {
+      "id": 4,
+      "name": "Photography",
+      "url": "../assets/images/category4.png"  
+    },
+    {
+      "id": 5,
+      "name": "Sport",
+      "url": "../assets/images/category5.png"  
+    },
+    {
+      "id": 6,
+      "name": "Music",
+      "url": "/assets/images/Category6.png"  
+    }
+  ],
+  "trending": [
+    {
+      "id": 1,
+      "image": "../assets/images/treeend.png",
+      "text": "Tubby Cats #10211",
+      "price": 1.2,
+      "icon": "/assets/images/trend1.png",
+      "rate": 6,
+      "button": "Buy"
+    },
+    {
+      "id": 2,
+      "image": "../assets/images/trendImage3.png",
+      "text": "Tubby Cats #10211",
+      "price": 1.2,
+      "icon": "/assets/images/trend2.png",
+      "rate": 6,
+      "button": "Buy"
+    },
+    {
+      "id": 3,
+      "image": "../assets/images/trendImage2.png",
+      "text": "Tubby Cats #10211",
+      "price": 1.2,
+      "icon": "/assets/images/trend3.png",
+      "rate": 6,
+      "button": "Place bid"
+    }
+  ],
+  "collection": [
+    {
+    "id": 1,
+    "collect1": "assets/images/absolute1.png",
+    "collect2": "assets/images/Ellipse1.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 2,
+    "collect1": "assets/images/absolute2.png",
+    "collect2": "assets/images/Ellipse2.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 3,
+    "collect1": "assets/images/absolute3.png",
+    "collect2": "assets/images/Ellipse3.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 4,
+    "collect1": "assets/images/absolute4.png",
+    "collect2": "assets/images/Ellipse4.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 5,
+    "collect1": "assets/images/absolute5.png",
+    "collect2": "assets/images/Ellipse5.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 6,
+    "collect1": "assets/images/absolute6.png",
+    "collect2": "assets/images/Ellipse6.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 7,
+    "collect1": "assets/images/absolute7.png",
+    "collect2": "assets/images/Ellipse7.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  },
+  {
+    "id": 8,
+    "collect1": "assets/images/absolute8.png",
+    "collect2": "assets/images/Ellipse8.png",
+    "title": "Bored ape",
+    "available": "778/10k",
+    "price": 1.5
+  }
+],
+"top":[
+  {
+    "id": 1,
+    "picture": "assets/images/tp1.png",
+    "picture2": "assets/images/tep1.png",
+    "word": "Tubby cats",
+    "amount": "778/10k",
+    "point": 1.5
+  },
+  {
+    "id": 2,
+    "picture": "assets/images/tp2.png",
+    "picture2": "assets/images/tep2.png",
+    "word": "Tubby cats",
+    "amount": "778/10k",
+    "point": 1.5
+  },
+  {
+    "id": 3,
+    "picture": "assets/images/tp3.png",
+    "picture2": "assets/images/tep3.png",
+    "word": "Tubby cats",
+    "amount": "778/10k",
+    "point": 1.5
+  },
+  {
+    "id": 4,
+    "picture": "assets/images/tp4.png",
+    "picture2": "assets/images/tep4.png",
+    "word": "Tubby cats",
+    "amount": "778/10k",
+    "point": 1.5
+  },
+  {
+    "id": 5,
+    "picture": "assets/images/tp5.png",
+    "picture2": "assets/images/tep5.png",
+    "word": "Tubby cats",
+    "amount": "778/10k",
+    "point": 1.5
+  },
+  {
+    "id": 6,
+    "picture": "assets/images/tp6.png",
+    "picture2": "assets/images/tep6.png",
+    "word": "Tubby cats",
+    "amount": "778/10k",
+    "point": 1.5
+  }
+],
+"create": [
+  {
+    "id":1,
+    "create1": "assets/images/tep8.png",
+    "create2": "assets/images/t-icon1.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":2,
+    "create1": "assets/images/tep9.png",
+    "create2": "assets/images/t-icon2.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":3,
+    "create1": "assets/images/tep10.png",
+    "create2": "assets/images/t-icon3.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":4,
+    "create1": "assets/images/tep11.png",
+    "create2": "assets/images/t-icon4.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":5,
+    "create1": "assets/images/tep12.png",
+    "create2": "assets/images/t-icon5.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":6,
+    "create1": "assets/images/tep13.png",
+    "create2": "assets/images/t-icon6.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":7,
+    "create1": "assets/images/tep14.png",
+    "create2": "assets/images/t-icon7.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  },
+  {
+    "id":8,
+    "create1": "assets/images/tep15.png",
+    "create2": "assets/images/t-icon8.png",
+    "identity": "Creator name",
+    "tax":"10.5k"
+  }
+],
+"comer":[
+  {
+    "id":1,
+    "comer1": "assets/images/come1.png",
+    "comer2": "assets/images/rare1.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":2,
+    "comer1": "assets/images/come2.png",
+    "comer2": "assets/images/rare8.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":3,
+    "comer1": "assets/images/come3.png",
+    "comer2": "assets/images/rare9.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":4,
+    "comer1": "assets/images/come4.png",
+    "comer2": "assets/images/rare3.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":5,
+    "comer1": "assets/images/come5.png",
+    "comer2": "assets/images/rare4.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":6,
+    "comer1": "assets/images/come6.png",
+    "comer2": "assets/images/rare5.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":7,
+    "comer1": "assets/images/come7.png",
+    "comer2": "assets/images/rare6.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  },
+  {
+    "id":8,
+    "comer1": "assets/images/tep15.png",
+    "comer2": "assets/images/rare7.png",
+    "clause": "Rarity",
+    "date":"23-March-2023"
+  }
+]
+}
